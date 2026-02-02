@@ -1,0 +1,27 @@
+.mybg
+{
+	background-color: #4c0345 
+}
+
+.grad
+{
+	background: #833AB4;
+background: linear-gradient(90deg, rgba(131, 58, 180, 1) 23%, rgba(253, 29, 29, 1) 57%, rgba(252, 176, 69, 1) 100%);
+}
+
+
+
+.mycard 
+{
+	margin-top: 50px;
+	border: 1px solid grey;
+	padding: 15px
+}
+.admincard 
+{
+	background-color: #4c0335; 
+	margin-top: 50px;
+	border: 1px solid grey;
+	padding: 15px
+}
+
